@@ -29,4 +29,4 @@ Looking for QA engineer position (trainy or jun, of course :see_no_evil:)
 - [Автоматизация тестирования Reqres.in](https://github.com/Kashtos90/rest-api-test)
 
 ### MOBILE :iphone:
-- [Автоматизация тестирования мобильного приложения Wikipedia](https://github.com/Kashtos90/mobile-tests)
+- [Автоматизация тестирования мобильного приложения Wikipedia](https://github.com/Kashtos90/mobile-tests/tree/22hw)
