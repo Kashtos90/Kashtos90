@@ -1,8 +1,6 @@
 ## Hello there 👋 Sergey on the line!
 
-I'm curretly studying QA Automation :robot: (Java) at [QA.GURU](https://qa.guru/)
-
-Looking for QA engineer position (trainy or jun, of course :see_no_evil:)
+I'm recently finished course of QA Automation :robot: (Java) at [QA.GURU](https://qa.guru/)
 
 ## Tech stack:
 
@@ -19,14 +17,14 @@ Looking for QA engineer position (trainy or jun, of course :see_no_evil:)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kashtos90&theme=solarized_dark)
 
-## :books: Диплом :books:
-За время обучения в школе [QA.GURU](https://qa.guru/) был разработан дипломный проект, состоящий из нескольких блоков по автоматизации UI, API и MOBILE тестов. Более подробно с каждым из них можно ознакомиться ниже :point_down:
+## :books: Graduation project :books:
+During my studies at [QA.GURU](https://qa.guru/) a graduation project was developed, consisting of several blocks for automated UI, API and MOBILE tests. More details about each of them can be found below. :point_down:
 
 ### UI :computer: 
-- [Автоматизация тестирования Plarium.com](https://github.com/Kashtos90/plarium_web)
+- [Automated testing Plarium.com](https://github.com/Kashtos90/plarium_web)
 
 ### API :abacus: 
-- [Автоматизация тестирования Reqres.in](https://github.com/Kashtos90/rest-api-test/tree/diploma)
+- [Automated testing Reqres.in](https://github.com/Kashtos90/rest-api-test/tree/diploma)
 
 ### MOBILE :iphone:
-- [Автоматизация тестирования мобильного приложения Wikipedia](https://github.com/Kashtos90/mobile-tests/tree/22hw)
+- [Automated testing Wikipedia mobile application](https://github.com/Kashtos90/mobile-tests/tree/22hw)
